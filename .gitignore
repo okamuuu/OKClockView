@@ -1,0 +1,15 @@
+.DS_Store
+*.swp
+
+build/
+
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+*.model1v3
+*.model2v3
+
+# for Xcode 4
+xcuserdata
+
